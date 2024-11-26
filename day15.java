@@ -21,7 +21,7 @@ Constraints:
 
 //Solution:
 
-class Solution {
+class day15 {
 
     // a: input array
     // n: size of array
